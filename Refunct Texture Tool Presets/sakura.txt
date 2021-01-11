@@ -1,11 +1,11 @@
 {Platform Tops}
     [Uncolored]
-        color: 1, 0.821167, 0.71
+        color: 0.905982, 0.31376, 0.909904
         emissive colors: 0, 0, 0
-        smoothness: 2
+        smoothness: 3
         reflectivity: 0.2
     [Color 1]
-        color: 1, 0.1, 0.1
+        color: 0.968734, 0.33337, 0.33337
         emissive colors: 0, 0, 0
     [Color 2]
         color: 1, 0.166667, 0
@@ -30,86 +30,86 @@
         emissive colors: 0, 0, 0
 {Platform Sides}
     [Uncolored]
-        color: 1, 0.84725, 0.805
+        color: 1.00011, 1.00011, 1.00011
         emissive colors: 0, 0, 0
-        smoothness: 3
-        reflectivity: 0.275
+        smoothness: 15
+        reflectivity: 1
     [Colored]
-        color: 1, 0.533507, 0.18
+        color: 0.325526, 0.223554, 0.027454
         emissive colors: 0, 0, 0
         smoothness: 6
         reflectivity: 1
 {Buttons}
     [Normal unpressed]
-        color: 1, 0, 0.016666
+        color: 1.00011, 1.00011, 1.00011
         emissive colors: 0, 0, 0
-        smoothness: 0.4
-        reflectivity: 0
+        smoothness: 0
+        reflectivity: 1
         metallic: 0
     [Final unpressed]
-        color: 1, 1, 0.05
+        color: 1.00011, 1.00011, 1.00011
         emissive colors: 0, 0, 0
-        smoothness: 0.4
-        reflectivity: 0
-        metallic: 0.5
+        smoothness: 0
+        reflectivity: 1
+        metallic: 0
     [Pressed]
-        color: 1, 1, 1
+        color: 0.945202, 0.839308, 0.356902
         emissive colors: 0, 0, 0
-        smoothness: 0.4
+        smoothness: 0.384615
         reflectivity: 0
-        metallic: 0.5
+        metallic: 0.88
     [Rim]
         color: 1, 1, 1
         emissive colors: 0, 0, 0
-        smoothness: 0.4
-        reflectivity: 0.2
-        metallic: 0.5
+        smoothness: 0.461538
+        reflectivity: 1
+        metallic: 1
     [Normal beam]
-        emissive colors: 1, 0, 0.016666
+        emissive colors: 1.00011, 0.141192, 0.09805
     [Final beam]
-        emissive colors: 1, 1, 0.03
+        emissive colors: 3.99993, 0.564696, 0.39215
 {Cubes}
     [Cube]
-        color: 1, 1, 1
+        color: 63.75, 63.75, 63.75
     [Animation]
-        color: 20, 0.33332, 0.661093
+        color: 0.5, 7.5, 1
 {Water}
     [Surface]
-        color: 0, 0.003421, 0.01
-        emissive colors: 0, 0, 0
+        color: 1.00011, 1.00011, 1.00011
+        emissive colors: 1.10007, 1.10007, 1.10007
     [Splash]
-        color: 0, 0, 0
-        emissive colors: 0, 0, 0
+        color: 0.996188, 0, 0
+        emissive colors: 24.901905, 0, 0
     [Floor]
         color: 0.03, 0.021539, 0
         emissive colors: 0, 0, 0
     [Outer pillars]
-        color: 1, 0.84725, 0.805
+        color: 0.800088, 0.439264, 0.964812
         emissive colors: 0, 0, 0
 {Other interactables}
     [Pipe body]
-        color: 1, 1, 1
+        color: 0.29415, 0.188256, 0.035298
         emissive colors: 0, 0, 0
-        reflectivity: 0
+        reflectivity: 0.29
         metallic: 0
     [Pipe endings]
-        color: 1, 1, 1
+        color: 0.15688, 0.09805, 0.015688
         emissive colors: 0, 0, 0
-        reflectivity: 0
+        reflectivity: 0.29
         metallic: 0
     [Pipe inside]
         emissive colors: 0, 0, 0
     [Elevators & jump pads]
-        color: 1, 0.9168, 0
-        emissive colors: 0, 0, 0
-        smoothness: 0.4
-        reflectivity: 0.2
-        metallic: 0.5
-    [Jump pad highlights]
-        color: 0.03, 0.03, 0.03
+        color: 0, 0, 0
         emissive colors: 0, 0, 0
         smoothness: 0
-        reflectivity: 1
-        metallic: 1
-top color: 0
-time: 
+        reflectivity: 0.33
+        metallic: 0
+    [Jump pad highlights]
+        color: 1.00011, 1.00011, 1.00011
+        emissive colors: 0, 0, 0
+        smoothness: 0
+        reflectivity: 0
+        metallic: 0
+top color: 1
+time: 900
